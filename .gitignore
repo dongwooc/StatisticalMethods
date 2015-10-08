@@ -67,3 +67,6 @@ target/
 
 # Don't look in the attic!
 attic
+
+# gah
+.DS_Store
